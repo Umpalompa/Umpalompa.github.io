@@ -219,6 +219,7 @@ button {
 }
 
 .google {
+    padding-top: 10px;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -268,6 +269,39 @@ button {
         padding-left: 95px;
     }
 }
+
+@media screen and (max-width: 360px){
+    .background{
+    	background-image: url(./background-imgs/360.png);
+    } 
+}
+@media screen and (max-width: 375px){
+    .background{
+    	background-image: url(./background-imgs/375px.png);
+    }
+}
+@media screen and (max-width: 770px){
+    .background{
+    	background-image: url(./background-imgs/770px.png);
+    }
+}
+@media screen and (max-width: 1022px){
+    .background{
+    	background-image: url(./background-imgs/1022.png);
+    }
+}
+@media screen and (max-width: 1290px){
+    .background{
+    	background-image: url(./background-imgs/1290.png);
+    }
+}
+@media screen and (max-width: 1366px){
+    .background{
+    	background-image: url(./background-imgs/1266.png);
+    }
+}
+
+
 
 @media screen and (max-width: 830px) {
     body {
