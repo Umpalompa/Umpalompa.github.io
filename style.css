@@ -272,32 +272,32 @@ button {
 
 @media screen and (max-width: 360px){
     .background{
-    	content:url(./background-imgs/360.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/360.png);
     } 
 }
 @media screen and (max-width: 375px){
     .background{
-    	content:url(./background-imgs/375px.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/375px.png);
     }
 }
 @media screen and (max-width: 770px){
     .background{
-    	content:url(./background-imgs/770px.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/770px.png);
     }
 }
 @media screen and (max-width: 1022px){
     .background{
-    	content:url(./background-imgs/1022.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/1022.png);
     }
 }
 @media screen and (max-width: 1290px){
     .background{
-    	content:url(./background-imgs/1290.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/1290.png);
     }
 }
 @media screen and (max-width: 1366px){
     .background{
-    	content:url(./background-imgs/1266.png);
+    	background-image: url(https://github.com/Umpalompa/Umpalompa.github.io/blob/master/background-imgs/1366.png);
     }
 }
 
