@@ -272,32 +272,32 @@ button {
 
 @media screen and (max-width: 360px){
     .background{
-    	background-image: url(./background-imgs/360.png);
+    	content:url(./background-imgs/360.png);
     } 
 }
 @media screen and (max-width: 375px){
     .background{
-    	background-image: url(./background-imgs/375px.png);
+    	content:url(./background-imgs/375px.png);
     }
 }
 @media screen and (max-width: 770px){
     .background{
-    	background-image: url(./background-imgs/770px.png);
+    	content:url(./background-imgs/770px.png);
     }
 }
 @media screen and (max-width: 1022px){
     .background{
-    	background-image: url(./background-imgs/1022.png);
+    	content:url(./background-imgs/1022.png);
     }
 }
 @media screen and (max-width: 1290px){
     .background{
-    	background-image: url(./background-imgs/1290.png);
+    	content:url(./background-imgs/1290.png);
     }
 }
 @media screen and (max-width: 1366px){
     .background{
-    	background-image: url(./background-imgs/1266.png);
+    	content:url(./background-imgs/1266.png);
     }
 }
 
