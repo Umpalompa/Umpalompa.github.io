@@ -155,7 +155,6 @@ nav {
     height: 4px;
     margin: 0;
     background: rgb(234,240,39);
-    background: linear-gradient(127deg, rgba(234,240,39,1) 0%, rgba(198,105,229,1) 100%);
 }
 
  /* --------- Form --------- */
